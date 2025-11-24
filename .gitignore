@@ -1,0 +1,9 @@
+# Ignorar pasta do ambiente virtual (pesada)
+env25/
+venv/
+.env
+
+# Ignorar arquivos temporários e compilados
+__pycache__/
+*.pyc
+*.mp3
